@@ -3,7 +3,7 @@ body{
     color: white;
 }
 h1{
-    padding-top: 21%;
+    padding-top: 10%;
     text-align: center;
 }
 marquee{
@@ -14,4 +14,7 @@ marquee{
                 0px 0px 20px cyan,
                 0px 0px 40px cyan, 
                 0px 0px 80px cyan;
+}
+img{
+border-radius: 50%;
 }
